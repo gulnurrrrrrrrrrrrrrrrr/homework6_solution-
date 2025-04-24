@@ -3,7 +3,6 @@ public class Main{
       SupportHandler faq = new FAQBotHandler();
       SupportHandler junior = new JuniorSupportHandler();
       
-      String[] issues = { "password_reset", "refund_request", "account_ban", "unknown_bug" };
 
   }
 }
